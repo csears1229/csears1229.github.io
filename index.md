@@ -1,10 +1,27 @@
-## Welcome to My ePortfolio
+# Welcome to My ePortfolio
 
 I have created this portfolio to showcase some of my best projects that I have created as I work to complete my Computer Science degree at Southern New Hampshire University. These projects will highlight my skills in the following areas: 
 - Software Design and Engineering
 - Data Structures and Algorithms
 - Databases
 Along with the projects I have also included a video of me doing a Code Review. The Code Review was recorded before I began my work on these projects and explained the changes that I wanted to make.  
+
+## Code Review
+Check out the link below to view my code review. This is a great place to start and see how I evaluate my own work, how I plan and implement changes and upgrades, and my thought process as I approach problems. 
+
+[Code Review (YouTube)](https://www.youtube.com/)
+
+## Project One: Software Design and Engineering
+Zoo
+
+## Project Two: Data Structures and Algorithms
+Bids
+
+## Project Three: Database
+API
+
+## Additional Projects
+Maybe? Link to my github? 
 
 ### About Me
 
