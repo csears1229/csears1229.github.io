@@ -9,7 +9,7 @@ Along with the projects I have also included a video of me doing a Code Review. 
 ## Code Review
 Check out the link below to view my code review. This is a great place to start and see how I evaluate my own work, how I plan and implement changes and upgrades, and my thought process as I approach problems. 
 
-[Code Review (YouTube)](https://www.youtube.com/)
+[Code Review (YouTube)](https://youtu.be/yofjyBlPDAc)
 
 ## Project One: Software Design and Engineering
 Zoo
