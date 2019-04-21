@@ -4,6 +4,7 @@ I have created this portfolio to showcase some of my best projects that I have c
 - Software Design and Engineering
 - Data Structures and Algorithms
 - Databases
+
 Along with the projects I have also included a video of me doing a Code Review. The Code Review was recorded before I began my work on these projects and explained the changes that I wanted to make.  
 
 ## Code Review
