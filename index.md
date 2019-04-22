@@ -69,7 +69,7 @@ This application was first created early 2018 for my class on data structures an
 For this application I really wanted to do something much larger to really show how different desing patterns. I feel that creating effective algorithms and being able to select appropriate data structures set you ahead as a developer. Everyone wants to see programs that are fast, effective, and easy to use or maintain. To accomplish this I used a list of almost 18,000 bids and created algorithms to sort, search, and insert data into a few popular data structures. This not only demonstrates my skill as a developer, but also contains good modular code that could easily be adapted to any number of situations. With very few modifications to the algorithms we could easily use the same code to sort and search and type of data set. This application also demonstrates effective Software Design patterns and follows industry best practices. I wanted to make this project clear and concise and something that another professional developer could look at and easily understand the purpose and function of each method. 
 
 Check out this example from one of my methods for adding a bid to a Binary Search Tree
-```C++
+```cpp
 void BinarySearchTree::addNode(Node* node, Bid bid) {
     if (bid.bidId >= node->bid.bidId) {
         if (node->right == nullptr) {
