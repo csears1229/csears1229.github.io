@@ -90,12 +90,11 @@ void BinarySearchTree::addNode(Node* node, Bid bid) {
 }
 ```
 This recursive method for inserting a bid is just one example of the data structures in this application. I also included a timing tool with each method to show the effectiveness of the algorithm and data structure being used. You can see in this snapshot below that this application is heavily focused on performance and making effecient methods. 
-
-![](images/DataStructureExample.png)
+![Example](DataStructureExample.png)
 
 ### Running the Application
 The application is broken down into two main divisions of functionality, sorting and searching. The sort menu has options for performing a quick sort or a selection sort of the list of bids and measuring their effectiveness. The search menu allows you to search a Binary Search Tree, Linked List, or a Hash Table by entering the ID of a bid. You can also insert a new entry by manually inputing the required information to see how quickly the algorithm can insert data to the different data structures. You can see an example of the menu in the screenshot below. 
-![](images/SortMenu.png)
+![sort menu](images/SortMenu.png)
 
 ### Why I Love This Project
 This project was a lot of fun to build and make work. Personally I enjoy doing the backend type work and figuring out the logic and structures to make an application work correctly and work more effectivly. This application presented some unique challenges that were very educational to figure out. It was difficult dealing with many different data structures in one application so I had to figure out ways to present the data in many different structures. I also had to make sure that my algorithms were effective in sorting and searching the entries. With such a large set of data it would be very noticible if the algorithms took too long to execute. I feel that this project shows a solid foundation of data structure concepts and implements a few of the most popular structures used by professionals today. These are the types of skills and problem solving that are in high demand right now. 
@@ -110,4 +109,4 @@ My name is Carson Sears and I currently work as a System Administrator for the U
 
 I have been a student at Southern New Hampshire University for the last 3 years. During my time at SNHU I was able to continue to improve my skills as a Software Developer and Engineer. I have worked with C++, Python, Java, JavaScript, HTML, CSS, MySQL, and MongoDB. I have also taken courses on the Agile Software Development Life Cycle, Database Design, Git Collaboration, Software Testing Automation, Computer Graphics using OpenGL and C++, and many more courses that I feel make me a well-rounded Software Developer.  
 
-**If you would like to learn more about me or the projects I'm working on then head on over to my [LinkedIn](www.linkedin.com/in/carson-sears) or check out my other [GitHub Repositories](https://github.com/csears1229?tab=repositories)**
+## **If you would like to learn more about me or the projects I'm working on then head on over to my [LinkedIn](www.linkedin.com/in/carson-sears) or check out my other [GitHub Repositories](https://github.com/csears1229?tab=repositories)**
