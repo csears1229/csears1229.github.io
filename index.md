@@ -23,8 +23,33 @@ This application is an updated version of an application I made in the fall of 2
 #### Design Highlights
 I wanted to build an application that would be more realisitc and mimic a real authentication system. Logging into a system is something that almost everyone should be familiar with so I tired to add features that a user would understand. I also wanted to add persistant storage and the ability to manipulate users. In the previous version you had no way to add new users, change a password, or do anything else besides login. In order to make this application more realistic I connected the authentication system to a database. This gives us the ability to create new users, change a users password, lockout a user after 3 failed bad password attempts, and unlock a user account. 
 
+Here is an example of a method found in the project. Here we see the method for creating a new user and adding them to the SQL database
+```python
+def createUser():
+    print("Enter the following information - all fields are required")
+    firstName = str(input("Enter New User's First Name: "))
+    lastName = str(input("Enter New User's Last Name: "))
+    username = createUsername(firstName, lastName)
+    print("Username: " + username)
+    password = createPassword()
+    role = str(input("Enter New User's Role (Admin/User): "))
+    sql = "INSERT INTO name(first_name, last_name) values(%s, %s);"
+    val = (firstName, lastName)
+    cursor.execute(sql, val)
+    mydb.commit()
+    sql = "INSERT INTO users(username, password, role, lockout_status, namekey)\
+        values(%s, %s, %s, %s, %s);"
+    val = (username, password, role, "F", cursor.lastrowid)
+    cursor.execute(sql, val)
+    mydb.commit()
+    print("User successfuly created")
+```
+
 #### Running the Application 
 For this application we have two roles, a user and an admin. When you start the application you are presented with a welcome message and a prompt to enter your username and password. When you login as an admin you have the ability to create a new user, change a users password, view a single user or all users, unlock a user, or remove a user. When you login as a user you have the ability to change your password or view your own user account. 
+
+Check out these clips from the application to see how easy this system is to use.
+![](images/ZooLoginExample.png) ![](images/ZooUserUnlock.png)
 
 #### Why I Love This Project
 I enjoyed creating the application to include the MySQL database. Including a database in this application presented some new challenges and allowed me to include some new features as well. I love the flexibility of Python and how easy it is to implement things like hashed passwords, MySQL connections, and menus for users and admin. I also think that Python is a great language for sharing projects because it is so easy to read and understand. Anyone else with a basic understanding of Python and software development can check out this project and understand the logic and design of the application. 
