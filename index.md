@@ -5,7 +5,19 @@ I have created this portfolio to showcase some of my best projects that I have c
 - Data Structures and Algorithms
 - Databases
 
-Along with the projects I have also included a video of me doing a Code Review. The Code Review was recorded before I began my work on these projects and explained the changes that I wanted to make.  
+Along with the projects I have also included a video of me doing a Code Review. The Code Review was recorded before I began my work on these projects and explains the background of the applications as well as the changes and revisions I have made.
+
+# About Me
+
+My name is Carson Sears and I currently work as a System Administrator for the Utah Army National Guard. In 2011 I was a student at Utah State University working towards a degree in Mechanical Engineering. As part of my coursework for Mechanical Engineering I was required to take an Intro to Computer Science course that taught me the basics of C++. Over the semester I fell in love with software development and was excited to create things in C++. After that course I changed my degree to Computer Science and have done all I can to learn about the exciting world of software development. 
+
+I have been a student at Southern New Hampshire University for the last 3 years. During my time at SNHU I was able to continue to improve my skills as a Software Developer and Engineer. I have worked with C++, Python, Java, JavaScript, HTML, CSS, MySQL, and MongoDB. I have also taken courses on the Agile Software Development Life Cycle, Database Design, Git Collaboration, Software Testing Automation, Computer Graphics using OpenGL and C++, and many more courses that I feel make me a well-rounded Software Developer. 
+
+My focus in my studies has always been geared towards starting a career as a software developer and as I have taken classes and worked towards this goal my desire to enter the field of Software Development has only grown. In completing these projects for my portfolio I looked for ways to showcase the skills that I have along with my career interests. I have always been attracted to back-end development and I like to be the guy to dig in under the hood and figure out how things work. I picked projects that would allow me to demonstrate skills in software design, database design, data structures and algorithms, and security. I wanted to develop applications that would also be easy to operate and would let people quickly see the breadth and depth of my abilities. 
+
+The first artifact in my portfolio is a combination of software design and database design. With databases now being used in almost every business environement I wanted to demonstrate an effective use of a database in a mannar that many people would be familiar with. An authentication system can easily integrate a database and show solid design concepts as well as my focus on security and best practices. The bids system was also a good choice for my portfolio because the design concept has many different considerations than the authentication system. I am able to showcase my skills in a new application that shows diversity and flexibility. 
+
+Completing this Capstone exercise has been challenging and rewarding. I have spent many long nights developing new methods, testing many scenarios, and polishing my work. These applications presented here along with the other works on my GitHub profile are projects that I am really excited to share and strongly feel represent me well. These last few weeks have been a real confidence builder and helped me see the progess that I have made. I have grown in many ways and feel ready to make the career transition I have long been awaiting. 
 
 ## Code Review
 Check out the link below to view my code review. The Code Review is a great place to start as it will help you see how I evaluate my own work, how I plan and implement changes and upgrades, and my thought process as I approach problems. It will also give you a look at the code that I used as a baseline for these projects to you can see how much they have improved since they were originally created. 
@@ -101,12 +113,6 @@ This project was a lot of fun to build and make work. Personally I enjoy doing t
 
 ### Check It Out!
 **[The full application can be found here.](https://github.com/csears1229/Bid-System)** The CSV file with the bids is included with the repository so you have all the tools to run this application on your own machine. You can check out all the data structures and algorithms and try searching different bid ID's to see how it changes. 
+ 
 
-
-# About Me
-
-My name is Carson Sears and I currently work as a System Administrator for the Utah Army National Guard. In 2011 I was a student at Utah State University studying to complete a degree in Mechanical Engineering. As part of my coursework I was required to take an Intro to Computer Science course teaching the basics of C++. Over the semester I fell in love with software development and was excited to create things in C++. After that course I changed my degree to Computer Science and have done all I can to learn about the exciting world of software development. 
-
-I have been a student at Southern New Hampshire University for the last 3 years. During my time at SNHU I was able to continue to improve my skills as a Software Developer and Engineer. I have worked with C++, Python, Java, JavaScript, HTML, CSS, MySQL, and MongoDB. I have also taken courses on the Agile Software Development Life Cycle, Database Design, Git Collaboration, Software Testing Automation, Computer Graphics using OpenGL and C++, and many more courses that I feel make me a well-rounded Software Developer.  
-
-## **If you would like to learn more about me or the projects I'm working on then head on over to my [LinkedIn](www.linkedin.com/in/carson-sears) or check out my other [GitHub Repositories](https://github.com/csears1229?tab=repositories)**
+# **If you would like to learn more about me or the projects I'm working on then head on over to my [LinkedIn](www.linkedin.com/in/carson-sears) or check out my other [GitHub Repositories](https://github.com/csears1229?tab=repositories)**
