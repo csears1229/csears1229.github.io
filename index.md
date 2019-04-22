@@ -90,7 +90,7 @@ void BinarySearchTree::addNode(Node* node, Bid bid) {
 }
 ```
 This recursive method for inserting a bid is just one example of the data structures in this application. I also included a timing tool with each method to show the effectiveness of the algorithm and data structure being used. You can see in this snapshot below that this application is heavily focused on performance and making effecient methods. 
-![Example](DataStructureExample.png)
+![Example](images/DataStructureExample.png)
 
 ### Running the Application
 The application is broken down into two main divisions of functionality, sorting and searching. The sort menu has options for performing a quick sort or a selection sort of the list of bids and measuring their effectiveness. The search menu allows you to search a Binary Search Tree, Linked List, or a Hash Table by entering the ID of a bid. You can also insert a new entry by manually inputing the required information to see how quickly the algorithm can insert data to the different data structures. You can see an example of the menu in the screenshot below. 
