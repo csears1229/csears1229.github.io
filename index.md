@@ -12,15 +12,11 @@ Check out the link below to view my code review. This is a great place to start 
 
 [Code Review (YouTube)](https://youtu.be/yofjyBlPDAc)
 
-## Project One: Software Design and Engineering
+## Project One: Zoo Authentication System
 Zoo
 
-## Project Two: Data Structures and Algorithms
+## Project Two: Municipal Government Bid System
 Bids
-
-## Project Three: Database
-API
-
 
 ### About Me
 
