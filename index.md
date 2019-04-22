@@ -13,7 +13,24 @@ Check out the link below to view my code review. This is a great place to start 
 [Code Review (YouTube)](https://youtu.be/yofjyBlPDAc)
 
 ## Project One: Zoo Authentication System
-Zoo
+#### Skills Highlighted
+- Software Design and Engineering
+- Database design and integration 
+
+#### Application Overview
+This application is an updated version of an application I made in the fall of 2017. This was part of a course focused on Software Design Best Practices using Java. We were asked to build an authentication system for an imaginary Zoo. To give you a brief overview of the project, the previous version of the application had some users saved in a Java class with their passwords and roles saved in the class as attributes of the user object. You could then use the system to "login" as a user and depending on your role you would see a different welcome message. An in depth version of the old code can be seen in my code review but that is the basic idea of the system. The new version of the system has been rewritten in Python and now includes a MySQL database consisiting of a 'name' and 'user' table. Python and SQL are two of the most common languages used by developers and I feel that this application is a solid piece of work that highlights my skills. 
+
+#### Design Highlights
+I wanted to build an application that would be more realisitc and mimic a real authentication system. Logging into a system is something that almost everyone should be familiar with so I tired to add features that a user would understand. I also wanted to add persistant storage and the ability to manipulate users. In the previous version you had no way to add new users, change a password, or do anything else besides login. In order to make this application more realistic I connected the authentication system to a database. This gives us the ability to create new users, change a users password, lockout a user after 3 failed bad password attempts, and unlock a user account. 
+
+#### Running the Application 
+For this application we have two roles, a user and an admin. When you start the application you are presented with a welcome message and a prompt to enter your username and password. When you login as an admin you have the ability to create a new user, change a users password, view a single user or all users, unlock a user, or remove a user. When you login as a user you have the ability to change your password or view your own user account. 
+
+#### Why I Love This Project
+I enjoyed creating the application to include the MySQL database. Including a database in this application presented some new challenges and allowed me to include some new features as well. I love the flexibility of Python and how easy it is to implement things like hashed passwords, MySQL connections, and menus for users and admin. I also think that Python is a great language for sharing projects because it is so easy to read and understand. Anyone else with a basic understanding of Python and software development can check out this project and understand the logic and design of the application. 
+
+#### Check It Out! 
+**[The full application can be found here.](https://github.com/csears1229/Zoo-System)** The MySQL database has been created on a cloud server so the application is ready to run once you download the files. I have also included some SQL scripts that can be run on your own machine to allow you to run this application on any machine. 
 
 ## Project Two: Municipal Government Bid System
 Bids
